@@ -1,6 +1,6 @@
 # Avaition_Data_Analysis
 # Executive Summary 
-**Objectives:**
+**Objectives:** 
 ● Over the past fourteen years, aviation accident rates have shown limited improvement. 
 ● This has resulted in a continued occurrence of injuries within the industry.  
 ● Despite ongoing safety efforts, accidents have not significantly decreased. 
@@ -23,10 +23,8 @@ Analyze aviation data to check the trend in the enhancement of safety and give r
 ● Visualization, generating insights and Recommendations 
 
 **Recommendations:**  
-● The air spaces of cities with the most accidents reported, especially with the mid-air 
-collisions should be monitored more strictly. 
-● More experienced pilots should be given priority in sensitive areas in the peak months of 
-the year. 
+● The air spaces of cities with the most accidents reported, especially with the mid-air collisions should be monitored more strictly. 
+● More experienced pilots should be given priority in sensitive areas in the peak months of the year. 
 ● The daytime routine should be monitored with more focus in the future. 
 ● The planes with engines having fuel injected type must be given proper maintenance after 
 each time interval to avoid engine explosion. 
