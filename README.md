@@ -1,10 +1,14 @@
 # Avaition_Data_Analysis
 # Executive Summary 
 **Objectives:** 
-● Over the past fourteen years, aviation accident rates have shown limited improvement. 
-● This has resulted in a continued occurrence of injuries within the industry.  
-● Despite ongoing safety efforts, accidents have not significantly decreased. 
-● This trend emphasizes the need for continued vigilance and safety enhancement in aviation. 
+● Over the past fourteen years, aviation accident rates have shown limited improvement.
+
+● This has resulted in a continued occurrence of injuries within the industry.
+
+● Despite ongoing safety efforts, accidents have not significantly decreased.
+
+● This trend emphasizes the need for continued vigilance and safety enhancement in aviation.
+
 
 **Key Problems:**
 Over the past fourteen years, the aviation industry has witnessed a concerning trend where the rate of aviation accidents and resulting injuries has remained relatively stable, showing limited signs of improvement. 
